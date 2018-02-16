@@ -1,4 +1,7 @@
-* 
-* 
+* Introduction
+** What is RL - A branch of machine learning that deals optimizing the sequential decision-making of a goal-directed agent.
+** What is RL's relationship to Control Theory
+** Examples of RL
+* Definition of Key Ideas and 
 * https://www.intechopen.com/books/reinforcement_learning
 * Universal reinforcement learning - vivek Farias
