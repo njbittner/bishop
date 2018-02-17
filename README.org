@@ -1,0 +1,22 @@
+* Introduction
+** What is RL - A branch of machine learning that deals optimizing the sequential decision-making of a goal-directed agent.
+** What is RL's relationship to Control Theory
+** Examples of RL
+   - Video games
+   - Control operations in which we don't have a model of the system dynamics
+* Definition of Key Ideas and 
+* https://www.intechopen.com/books/reinforcement_learning
+* Universal reinforcement learning - vivek Farias
+* Exercises
+** Getting started with OpenAI
+** https://gym.openai.com/docs/
+** [[https://github.com/rlcode/reinforcement-learning/tree/master/1-grid-world][gridworld RL]]
+** [[http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/MDP.pdf][silver lecture 1]] 
+** [[https://github.com/aikorea/awesome-rl][awesome-rl]]
+** [[http://www.cse.unsw.edu.au/~cs9417ml/RL1/tdlearning.html][other learning resources]]
+** [[https://github.com/matthiasplappert/keras-rl][keras-rl]]
+** [[https://github.com/ShangtongZhang/reinforcement-learning-an-introduction][code for the sutton book]]
+** [[http://www2.econ.iastate.edu/tesfatsi/RLUsersGuide.ICAC2005.pdf][probably my favorite resource]] (slides)
+** [[https://github.com/yandexdataschool/Practical_RL/tree/master/week1_intro][genetic programming optimization]]
+** [[https://blog.openai.com/evolution-strategies/][great resource on genetic algorithm learning]]
+** [[https://keon.io/deep-q-learning/][digestible deep Q learning implementation]]
