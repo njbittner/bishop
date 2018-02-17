@@ -1,13 +1,9 @@
-* Introduction
-** What is RL - A branch of machine learning that deals optimizing the sequential decision-making of a goal-directed agent.
-** What is RL's relationship to Control Theory
-** Examples of RL
-   - Video games
-   - Control operations in which we don't have a model of the system dynamics
-* Definition of Key Ideas and 
-* https://www.intechopen.com/books/reinforcement_learning
-* Universal reinforcement learning - vivek Farias
-* Exercises
+* Guide to these exercises:
+  1) run 'python value_iteration.py' to see an example of the determinsitic value-iteration that we talked about in today's meeting. Credit: [[https://github.com/rlcode/reinforcement-learning/tree/master/1-grid-world][this repo]]
+  2) if you installed OpenAI's gym package, then you can also run 'python exercises.py' to see an example of a random agent playing cartpole.
+  3) Finally, check out [[https://github.com/ShangtongZhang/reinforcement-learning-an-introduction][this repo]] to find code for all of S&B, like the tic-tac-toe example from ch 1.
+
+* Other Material to Checkout
 ** Getting started with OpenAI
 ** https://gym.openai.com/docs/
 ** [[https://github.com/rlcode/reinforcement-learning/tree/master/1-grid-world][gridworld RL]]
@@ -15,7 +11,6 @@
 ** [[https://github.com/aikorea/awesome-rl][awesome-rl]]
 ** [[http://www.cse.unsw.edu.au/~cs9417ml/RL1/tdlearning.html][other learning resources]]
 ** [[https://github.com/matthiasplappert/keras-rl][keras-rl]]
-** [[https://github.com/ShangtongZhang/reinforcement-learning-an-introduction][code for the sutton book]]
 ** [[http://www2.econ.iastate.edu/tesfatsi/RLUsersGuide.ICAC2005.pdf][probably my favorite resource]] (slides)
 ** [[https://github.com/yandexdataschool/Practical_RL/tree/master/week1_intro][genetic programming optimization]]
 ** [[https://blog.openai.com/evolution-strategies/][great resource on genetic algorithm learning]]
